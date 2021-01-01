@@ -1,5 +1,7 @@
 ## Script New Year 
 
+![](2021.png)
+
 ## Requirements
 
 This script requires 'toilet' and a bash shell : use command
