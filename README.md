@@ -7,7 +7,7 @@
 This script requires 'toilet' and a bash shell : use command
 
 ```bash
-suod apt install toilet
+sudo apt install toilet
 ```
 
 ## Execution:
