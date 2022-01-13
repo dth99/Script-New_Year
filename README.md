@@ -1,6 +1,6 @@
 ## Script New Year 
 
-![](2021.png)
+![dth99](https://github.com/dth99/Script-New_Year/blob/main/2021.gif)
 
 ## Requirements
 
@@ -14,6 +14,10 @@ sudo apt install toilet
 
 ```bash
 cd Script-New_Year
+```
+
+```bash
+chmod +x New_Year_2021.sh
 ```
 
 ```bash
